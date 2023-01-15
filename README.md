@@ -1,4 +1,4 @@
-# DailyChallenge
+# DI Bootcamp - Week 4 - Day 3 - Daily Challenge : Focus-tracker-app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
